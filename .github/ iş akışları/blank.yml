@@ -31,3 +31,8 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
+
+guahanweb/action-nodejs-gh-pages@1.0.0
+
+- isim: Jekyll Aksiyon
+  kullanır: helaili/jekyll-action@1.0
