@@ -36,3 +36,7 @@ guahanweb/action-nodejs-gh-pages@1.0.0
 
 - isim: Jekyll Aksiyon
   kullanır: helaili/jekyll-action@1.0
+  
+  - isim: Düğüm Uygulaması Yardımcı İşlemleri
+  kullanır: guahanweb/action-nodejs-gh-pages@1.0.0
+
